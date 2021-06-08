@@ -48,11 +48,15 @@
 ## Projetos de hands-on cursos 📖
 
 Ao longo da jornada de aprendizado percebi que nada melhor do que por a mão na massa quando estou aprendendo algo.
-
 Tendo isso em vista organizei os repositórios de desenvolvimento agrupados por categoria.
+
 * **Formação Data Science - Alura**
     * [Data Science: Primeiros passos](https://github.com/laurivansareta/introducao-a-data-science)
     * [Python Pandas: Tratando e analisando dados](https://github.com/laurivansareta/introducao-python-pandas)
+    * [Estatística com Python parte 1: Frequências e Medidas](https://github.com/laurivansareta/estatistica-distribuicoes-e-medidas)
+
+* **Formação Python para Data Science - Alura**
+    * [Scraping com Python: Coleta de dados na web](https://github.com/laurivansareta/web-scraping-data-science-python)
 
 * **Formação Angular (Formação anterior) - Alura** [link alura](https://cursos.alura.com.br/formacao-angular-v2398)
     * [Angular parte 1: Fundamentos](https://github.com/laurivansareta/alurapic)

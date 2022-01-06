@@ -16,15 +16,15 @@
 
 | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐ | ⭐ |
 | ------ | ------ | ------ | ------ | ------ |
-| Data Visualization |Python|NodeJS| R ||
+| Data Visualization |Docker|NodeJS| R ||
 |SQL|Machine Learning|Angular|||
 |Pentaho|HTML, CSS e Javascript|Ionic|||
 |Git/SVN |Pandas, scikit learning, seaborn||||
-|ETL|Power BI||||
+|ETL|Bootstrap||||
 |Data Warehouse|MDX||||
-|Bootstrap|Docker||||
+|Power BI|||||
+|Python|||||
 |Delphi|||||
-||||||
 
 ## Me encontre pelo 🌎
 

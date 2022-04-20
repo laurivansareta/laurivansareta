@@ -5,9 +5,9 @@
 ![GitHub Logo](laurivan.png)
 
 ## Quem sou eu? 
-* 📈 Atualmente estou trabalhando com o projeto [**Sua empresa Orientada a Dados**](https://drive.google.com/file/d/1LzSJQ618fsPpttAhEe-HJPSdmP6wX_yW/view)
-* 📊 Trabalho e tenho experiência como Analista de dados e BI.
-* 🎓 Sou Bacharel em Ciência da Computação - UFFS.
+* 📈 Atualmente estou trabalhando na [Cycle](http://cycletec.com.br/) como Cientista de dados e com o projeto [**Sua empresa Orientada a Dados**](https://drive.google.com/file/d/1LzSJQ618fsPpttAhEe-HJPSdmP6wX_yW/view)
+* 📊 Trabalho e tenho experiência como Cientista de dados e Analista de BI.
+* 🎓 Sou Bacharel em Ciência da Computação - UFFS e Aluno da Comunidade DS.
 * 👩‍💻 Estou me especializando na área de Ciência de dados, aprimorando minhas habilidades e conhecimentos.
 
 
@@ -17,14 +17,16 @@
 | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐ | ⭐ |
 | ------ | ------ | ------ | ------ | ------ |
 | Data Visualization |Docker|NodeJS| R ||
-|SQL|Machine Learning|Angular|||
-|Pentaho|HTML, CSS e Javascript|Ionic|||
-|Git/SVN |Pandas, scikit learning, seaborn||||
-|ETL|Bootstrap||||
-|Data Warehouse|MDX||||
+|SQL|HTML, CSS e Javascript|Angular|||
+|Pentaho|Bootstrap|Ionic|||
+|Git/SVN |MDX||||
+|ETL|||||
+|Data Warehouse|||||
+|Machine Learning|||||
 |Power BI|||||
 |Python|||||
 |Delphi|||||
+|Pandas, scikit learning, seaborn, surprise, selenium |||||
 
 ## Me encontre pelo 🌎
 
@@ -35,11 +37,17 @@
 
  ___
 
-<!-- ## **Meus projetos Data Science** -->
-
 <!-- ## **Meus projetos Business Intelligence** -->
 
 # **Meus projetos**
+
+## **Meus projetos Data Science**
+* [**Projeto de Previsão das vendas das lojas Rossmann**](https://github.com/laurivansareta/previsao-vendas-lojas-rossmann)
+  <br> Este projeto tem como objetivo gerar insights e prever o faturamento de uma rede de farmácias chamada Rossmann.
+* [**Recomendação de Recomendação de Filmes**](https://github.com/laurivansareta/sistema-recomendacao-movielens)
+  <br> Este projeto tem como objetivo de gerar recomendação utilizando dados do Movielens, e posteriormente usar os insights para desenvolver outros sistemas de recomendação.
+* [**Segmentação de Clientes**](https://github.com/laurivansareta/segmentacao-clientes)
+<br> Este projeto tem finalidade de segmentar cliente usando a metodologia RFM e algoritmos de machine learning para classificar os clientes por segmentos.
 
 ## Projetos Diversos 🚧
 * **Docker**

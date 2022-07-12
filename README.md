@@ -44,11 +44,19 @@
 ## **Meus projetos Data Science**
 * [**Projeto de Previsão das vendas das lojas Rossmann**](https://github.com/laurivansareta/previsao-vendas-lojas-rossmann)
   <br> Este projeto tem como objetivo gerar insights e prever o faturamento de uma rede de farmácias chamada Rossmann.
-* [**Recomendação de Recomendação de Filmes**](https://github.com/laurivansareta/sistema-recomendacao-movielens)
-  <br> Este projeto tem como objetivo de gerar recomendação utilizando dados do Movielens, e posteriormente usar os insights para desenvolver outros sistemas de recomendação.
+  
+* [**Programa de fidelidade Insiders**](https://github.com/laurivansareta/insiders_clustering)
+<br> Este projeto tem como objetivo descobrir os melhores clientes para participar de um programa de fidelidade.
+
+* [**Sistema de Recomendação para Cross-selling de Seguros**](https://github.com/laurivansareta/Health-Insurance-Ranking)
+<br> Este projeto visa ordenar uma lista de clientes em potencial por pontuação de propensão para adquirir seguro de carro.
+
 * [**Segmentação de Clientes**](https://github.com/laurivansareta/segmentacao-clientes)
 <br> Este projeto tem finalidade de segmentar cliente usando a metodologia RFM e algoritmos de machine learning para classificar os clientes por segmentos.
 
+* [**Recomendação de Recomendação de Filmes**](https://github.com/laurivansareta/sistema-recomendacao-movielens)
+  <br> Este projeto tem como objetivo de gerar recomendação utilizando dados do Movielens, e posteriormente usar os insights para desenvolver outros sistemas de recomendação.
+  
 ## Projetos Diversos 🚧
 * **Docker**
     * [SFTP com Docker](https://github.com/laurivansareta/sftp-docker)

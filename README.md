@@ -20,13 +20,15 @@
 |SQL|HTML, CSS e Javascript|Angular|||
 |Pentaho|Bootstrap|Ionic|||
 |Git/SVN |MDX||||
+|Python|||||
+|Machine Learning|||||
+|Pandas, scikit learning, seaborn, surprise, selenium |||||
+|Linux, AWS, GCP, VPS, Digital Ocean, Heroku|||||
 |ETL|||||
 |Data Warehouse|||||
-|Machine Learning|||||
 |Power BI|||||
-|Python|||||
 |Delphi|||||
-|Pandas, scikit learning, seaborn, surprise, selenium |||||
+
 
 ## Me encontre pelo 🌎
 
@@ -36,8 +38,6 @@
 *  [Blog]( https://laurivansareta.medium.com/ )
 
  ___
-
-<!-- ## **Meus projetos Business Intelligence** -->
 
 # **Meus projetos**
 
